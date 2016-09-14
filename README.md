@@ -1,4 +1,4 @@
-## A low cost differential pressure sensor base on arduino
+## A low cost differential pressure sensor based on arduino
 
 #### Context
 
@@ -31,7 +31,10 @@ You need to upload the code `master.c` to the big arduino (pro) using arduino so
 
 Once the arduinos are flashed, connect to the big arduino (pro) and on the computer launch the script `measure.py` which will start the measurements and plot in real time.
 
-![Electronic scheme](/doc/plot_6.png)
+![Plots](/doc/plot_6.png)
+
+![photo 1](/doc/1.jpg)
+![photo 2](/doc/2.jpg)
 
 ## References
 
